@@ -10,7 +10,37 @@ Lists in HTML:
             ===========
                 1.start -> numbers
                 2.type ->1,a,A,i,I
-                3.reserved
+                3.reversed
+
         2.Unordered List
+            -> <ul> </ul> represents the unordered list
+            
+            Attributes:
+            ===========
+                1.Type -> none, disc, circle, square
+
         3.Description / Definition List
+            -> <dl> </dl> -> represents the description list
+            -> <dt> </dt> -> represents the description term
+            -> <dd> </dd> -> represents the description data
+
         4.Nested List
+            ->A list inside another list is called a nested list
+
+Forms in HTML :
+===============
+    ->Forms are used to collect user information digitally
+    
+    Forms Tags:
+    ===========
+
+        <form> </form>
+        <fieldset> </fieldset> form border
+        <legend> </legend>
+        <label> </label>
+        <input>
+        <select> </select>
+        <option> </option>
+        <button> </button>
+        <textarea> </textarea>
+        
