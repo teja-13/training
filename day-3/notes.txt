@@ -1,0 +1,16 @@
+Lists in HTML:
+==============
+
+    Types :
+        1.Ordered List
+            -> <ol> </ol> represent the ordered list 
+            -> It contains list of items
+            
+            Attributes:
+            ===========
+                1.start -> numbers
+                2.type ->1,a,A,i,I
+                3.reserved
+        2.Unordered List
+        3.Description / Definition List
+        4.Nested List
