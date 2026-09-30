@@ -1,0 +1,22 @@
+Javascript :
+============
+    ->Javascript is a scripting language as well as a programming language
+    ->Js is a Dynamically typed programming language
+    ->JS having single Call Stack
+
+
+Uses :
+======
+    ->Using JS we can build dynamic web applications
+    ->Using js we can add functionalities to the web pages
+    ->Here we can achieve DOM(Document Object Model) functionalities
+    Using that we can manage HTML and CSS
+    ->We can fetch data from server (API's) and also send data to Server (API's)
+
+mocha -> 1995 - net scope (browser company)
+|
+live scripting
+|
+javascript
+|
+ECMA (European COmputering manufacturing association) -> new features 
