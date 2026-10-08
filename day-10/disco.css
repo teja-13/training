@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+  margin: 0px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: disco 1s linear 0s infinite normal;
+}
+h2 {
+  background-color: black;
+  color: aliceblue;
+}
+@keyframes disco {
+  0% {
+    background-color: red;
+  }
+  15% {
+    background-color: green;
+  }
+  30% {
+    background-color: blue;
+  }
+  45% {
+    background-color: red;
+  }
+  60% {
+    background-color: blue;
+  }
+  75% {
+    background-color: green;
+  }
+  90% {
+    background-color: red;
+  }
+  100% {
+    background-color: black;
+  }
+}

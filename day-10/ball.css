@@ -1,0 +1,15 @@
+.ball {
+  height: 200px;
+  width: 200px;
+  background-color: aquamarine;
+  animation: ball 1s linear 1s infinite alternate;
+  border-radius: 50%;
+}
+@keyframes ball {
+  from {
+    transform: translateY(300px);
+  }
+  ro {
+    transform: translateY(500px);
+  }
+}
